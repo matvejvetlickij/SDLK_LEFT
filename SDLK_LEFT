@@ -1,0 +1,6 @@
+  case SDLK_LEFT:
+            playerX -= playerSpeed;
+            break;
+        }
+    }
+}
